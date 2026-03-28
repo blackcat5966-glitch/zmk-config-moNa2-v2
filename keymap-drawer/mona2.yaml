@@ -55,7 +55,7 @@ layers:
   - '9'
   - '0'
   - A
-  - {t: ▽, type: trans}
+  - T
   - '['
   - ']'
   - {t: ▽, type: trans}
