@@ -86,17 +86,6 @@
     };
 
     //right hand trackball
-    &zip_temp_layer {
-        excluded-positions = <
-            12 // S
-            13 // D
-            14 // F
-            17 // H
-            18 // J
-            19 // K
-            29 // N
-        >;
-    };
     trackball_central_listener: trackball_central_listener {
         compatible = "zmk,input-listener";
         status = "disabled";
