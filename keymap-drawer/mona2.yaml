@@ -37,10 +37,10 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT SHIFT
-  - LANGUAGE 2
+  - BACKSPACE
   - {t: SPACE, h: '2'}
+  - {t: '&to_layer_0 LANGUAGE_2', h: '3'}
   - {t: '&to_layer_0 LANGUAGE_1', h: '3'}
-  - {t: '&to_layer_0 BACKSPACE', h: '3'}
   - {t: ENTER, h: '1'}
   - LEFT ALT
   '1':
@@ -96,7 +96,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '-'
   - '"'
   - $
   - '%'
@@ -107,12 +107,12 @@ layers:
   - '&mkp MB1'
   - '&mkp MB3'
   - '&mkp MB2'
-  - {t: ▽, type: trans}
+  - _
   - {t: ▽, type: trans}
   - '&'
   - '*'
-  - _
-  - {t: ▽, type: trans}
+  - (
+  - )
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB4'
