@@ -37,10 +37,6 @@
             key-positions = <11 12>;
         };
 
-        test {
-            bindings = <&bl BL_ON>;
-            key-positions = <28 16 17 18 19 11 12 13 14 25>;
-        };
     };
 
     macros {
